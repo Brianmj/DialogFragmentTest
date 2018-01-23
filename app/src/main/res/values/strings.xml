@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogFragmentTest</string>
+    <string name="pick_time">Pick A Time</string>
+</resources>
